@@ -1,5 +1,7 @@
 C4 Component Diagram: https://www.figma.com/board/huHuOigeTqGGJcR8NZbSDL/UML-Diagrams-(Community)?node-id=0-1&t=gjp1kcaH1H2KSD0G-1
+
 UI: https://www.figma.com/design/ifGvSqeNsPzWoQkrAo7IJL/HoverSprite-UI?node-id=0-1&t=oPzqzBN9Hb2BOy1a-1 
+
 SPRINT:
 
 1st sprint - July 29th to Aug 8th: - Level 0: Design the Data Model, Architecture, and User Experience of the entire system. 
